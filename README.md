@@ -4,8 +4,6 @@ CravingsMet is a responsive and user-friendly food ordering website designed to 
 
 ## Features
 - Interactive and responsive design using HTML, CSS, and JavaScript.
-- User authentication for secure login and registration.
-- Dynamic menu showcasing food items with real-time updates.
 - Cart functionality to manage orders efficiently.
 - Backend integration using phpMyAdmin for database management.
 - Admin panel for managing food items, orders, and users.
